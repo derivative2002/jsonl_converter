@@ -1,3 +1,3 @@
 # jsonl_converter
 
-Add your project description here.
+这是一个用来将海螺开放平台回流的数据转换为模型训练serving格式的转换代码
