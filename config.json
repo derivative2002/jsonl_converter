@@ -1,0 +1,6 @@
+{
+    "input_dir": "/minimax-dialogue/raw_data/online_data/hailuo_query_tagging/hailuo_huiliu_for_1st_class_tag_tidal_format/1st_class_tag_samples_whole0806/闲聊/split_files_shuffle/",
+    "output_dir": "/minimax-dialogue/users/jiaoyang/datacleaning0903/clean_serving/",
+    "max_output_lines": null,
+    "max_input_files": 20
+}
